@@ -17,7 +17,7 @@ max-width: 100vw;
 
             margin: 0 auto;
             padding: 16px;
-            
+
             display: flex;
             flex-direction: column;
             gap: 20px;
@@ -25,6 +25,10 @@ max-width: 100vw;
 
         article {
             display: flex;
+
+            background-color: #1B010E;
+
+            border: 1px solid #1B010E;
             align-items: flex-start;
             gap: 16px;
             border-bottom: 1px solid #E6ACD2;
