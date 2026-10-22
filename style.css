@@ -6,7 +6,7 @@ max-width: 100vw;
             background-color: #E6ACD2;
             color: #1B010E;
             text-align: center;
-            max-width: 800px;
+            
             margin: 0 auto;
             padding: 16px;
         }
@@ -14,7 +14,7 @@ max-width: 100vw;
         main {
             background-color: #1B010E;
             color: #E6ACD2;
-            max-width: 800px;
+
             margin: 0 auto;
             padding: 16px;
             display: flex;
