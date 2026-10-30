@@ -20,19 +20,19 @@ main {
     padding: 16px;
 
     display: flex;
-    
+
     flex-direction: column;
     gap: 20px;
 }
 
 article {
     display: flex;
-    background-color: #1B010E;
-    align-items: flex-start;
-    gap: 16px;
+
     border: 1px solid #1B010E;
-    border-bottom: 1px solid #E6ACD2;
-    padding-bottom: 16px;
+
+    margin: 16px;
+    gap: 16px;
+    padding: 16px;
 }
 
 img {
