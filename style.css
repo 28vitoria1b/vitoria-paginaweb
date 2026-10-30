@@ -26,13 +26,14 @@ main {
 }
 
 article {
+    article {
     display: flex;
 
-    border: 1px solid #1B010E;
-
+    border: 1px solid #E6ACD2; 
     margin: 16px;
     gap: 16px;
     padding: 16px;
+}
 }
 
 img {
