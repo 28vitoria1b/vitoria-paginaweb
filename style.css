@@ -25,15 +25,16 @@ flex-wrap: wrap ;
 }
 
 article {
-    article {
+
     display: flex;
 
     border: 1px solid #1B010E; 
     margin: 16px;
     gap: 16px;
     padding: 16px;
+flex: 1 1 25%;
 }
-}
+
 
 img {
     width: 80px;
