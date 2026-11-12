@@ -1,9 +1,6 @@
- body {
+body {
     max-width: 100vw;
-
 }
-
-
 
 header {
     background-color: #E6ACD2;
@@ -18,28 +15,22 @@ main {
     color: #E6ACD2;
     margin: 0 auto;
     padding: 16px;
-
     display: flex;
-flex-wrap: wrap ;
+    flex-wrap: wrap;
     gap: 20px;
 }
 
 article {
-
     display: flex;
-
-    border: 1px solid #095faaab; 
+    border: 2px solid #E6ACD2;
     margin: 16px;
     gap: 16px;
     padding: 16px;
-
-  flex: 1 1 25%;
-
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
+    flex: 1 1 25%;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
 }
-
 
 img {
     width: 80px;
@@ -59,4 +50,12 @@ button {
     border-radius: 4px;
     cursor: pointer;
     margin-right: 8px;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: #E6ACD2;
+    width: 100%;
+    flex-basis: 100%;
 }
